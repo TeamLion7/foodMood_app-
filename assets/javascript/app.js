@@ -560,3 +560,4 @@ $(document).on("click", "#start-over-btn", function() {
 
  openScreen();
 });
+
